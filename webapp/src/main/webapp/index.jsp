@@ -32,10 +32,11 @@
   </div>
 
    <h1> 
-     Thanks & Regards 
-     From
+     Thanks & Regards </h1>
+  <br>  
+  <h2> From
      Arbaz Khan
-  </h1>
+  </h2>
 
   
 </form>

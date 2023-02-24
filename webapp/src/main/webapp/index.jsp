@@ -31,7 +31,11 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Have a Nice Day. </h1>
+   <h1> 
+     Thanks & Regards 
+     From
+     Arbaz Khan
+  </h1>
 
   
 </form>

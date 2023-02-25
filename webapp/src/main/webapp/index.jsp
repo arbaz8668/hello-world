@@ -34,8 +34,8 @@
    <h1> 
      Thanks & Regards </h1>
   <br>  
-  <h2> From
-     Arbaz Khan
+   From
+    <h2> Arbaz Khan
   </h2>
 
   

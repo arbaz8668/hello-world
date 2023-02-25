@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to The NeML Family from Nagpur Team</h1>
+    <h1>Welcome to The <font color="#0F52BA">NeML </font>Family from Nagpur Team</h1>
     <p>Please fill in this form to proceed.</p>
     <hr>
      
@@ -35,7 +35,7 @@
      Thanks & Regards </h1>
   <br>  
    From
-    <h2><font color="#0F52BA"> Arbaz Khan</font>
+    <h2><font color="#FF2626"> Arbaz Khan</font>
   </h2>
 
   

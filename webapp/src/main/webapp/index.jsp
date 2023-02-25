@@ -35,7 +35,7 @@
      Thanks & Regards </h1>
   <br>  
    From
-    <h2> Arbaz Khan
+    <h2><font color="#0F52BA"> Arbaz Khan</font>
   </h2>
 
   

@@ -37,7 +37,7 @@
    From
     <h2><font color="#FF2626"> Arbaz Khan</font>
   </h2>
-   <br>  DevOps Engg
+   <br>  DevOps Engineer
 
   
 </form>
